@@ -1,4 +1,7 @@
 .imagen-dado {
     width: 200px;
     height: 200px;
+    margin: 30px;
+    background-color: red; 
+    border-radius: 10px;
 }
